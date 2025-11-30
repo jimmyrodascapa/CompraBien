@@ -1,0 +1,30 @@
+# Core dependencies
+playwright==1.40.0
+beautifulsoup4==4.12.2
+httpx==0.25.2
+lxml==4.9.3
+
+# Database
+sqlalchemy==2.0.23
+
+# Scheduling
+APScheduler==3.10.4
+
+# CLI
+click==8.1.7
+
+# Logging
+loguru==0.7.2
+
+# Configuration
+python-dotenv==1.0.0
+
+# Anti-bot
+fake-useragent==1.4.0
+
+# Data validation
+pydantic==2.5.2
+
+# Utils
+python-dateutil==2.8.2
+tenacity==8.2.3

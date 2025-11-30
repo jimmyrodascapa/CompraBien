@@ -1,0 +1,612 @@
+2025-11-29 00:06:06 | ERROR    | src.scrapers.falabella:search_products:72 - Error scraping page 1: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-11-29 02:39:51 | ERROR    | src.scrapers.falabella:search_products:77 - Error scraping page 1: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-11-29 02:46:51 | ERROR    | src.scrapers.falabella:search_products:114 - Error scraping page 1: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.falabella.com.pe/falabella-pe/search?Ntt=laptop&page=1", waiting until "networkidle"
+
+2025-11-29 02:49:30 | ERROR    | src.scrapers.falabella:search_products:114 - Error scraping page 1: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.falabella.com.pe/falabella-pe/search?Ntt=laptop&page=1", waiting until "networkidle"
+
+2025-11-29 02:51:55 | ERROR    | src.scrapers.falabella:search_products:114 - Error scraping page 1: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.falabella.com.pe/falabella-pe/search?Ntt=laptop&page=1", waiting until "networkidle"
+
+2025-11-29 02:59:10 | ERROR    | src.scrapers.falabella:search_products:114 - Error scraping page 1: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.falabella.com.pe/falabella-pe/search?Ntt=laptop&page=1", waiting until "networkidle"
+
+2025-11-29 03:08:59 | ERROR    | src.scrapers.falabella:search_products:114 - Error scraping page 1: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.falabella.com.pe/falabella-pe/search?Ntt=laptop&page=1", waiting until "networkidle"
+
+2025-11-29 03:17:34 | ERROR    | src.scrapers.falabella:search_products:114 - Error scraping page 1: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.falabella.com.pe/falabella-pe/search?Ntt=laptop&page=1", waiting until "networkidle"
+
+2025-11-29 03:25:14 | ERROR    | src.scrapers.falabella:search_products:114 - Error scraping page 1: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.falabella.com.pe/falabella-pe/search?Ntt=laptop&page=1", waiting until "networkidle"
+
+2025-11-29 03:31:56 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:31:56 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:31:58 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:31:58 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:32:00 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:32:00 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:32:01 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:32:02 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:32:04 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:32:04 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:32:05 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:32:05 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:32:08 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:32:08 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:32:09 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:32:10 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:35:07 | ERROR    | src.scrapers.falabella:search_products:114 - Error scraping page 1: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.falabella.com.pe/falabella-pe/search?Ntt=laptop&page=1", waiting until "networkidle"
+
+2025-11-29 03:36:06 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:36:06 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:36:08 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:36:08 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:36:10 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:36:10 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:36:12 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:36:12 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:36:14 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:36:14 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:36:16 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:36:16 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:36:18 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:36:18 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:36:20 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:36:20 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Gamer Loq Intel Core I5 Rtx 4050 16gb Ram 1tb Ssd 15.6" Fhd 144hz 12va Gen: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Ideapad Slim 3 Amd Ryzen 5 8gb Ram 512gb Ssd 15.6" Fhd Serie 5000: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Gamer Legion Pro 7i Gen 2 Ia Intel Core Ultra 9 Rtx 5080 32gb Ram 1tb Ssd 16" Wqxga 240hz: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Ideapad Slim 3 Amd Ryzen 5 8gb Ram 512gb Ssd 15.6" Fhd Serie 5000: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HP - Laptop Amd Ryzen 7 16 Gb 1 Tb Ssd 15.6" Fhd 15-fc0276la: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ASUS - Laptop Tuf Gaming A15 Amd Ryzen 7 7445hs 16gb 512gbssd Rtx3050 15.6" Fhd: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ACER - Laptop Aspire Lite Amd Ryzen¿ 7 5825u 32 Gb 1 Tb Ssd Fhd (1920 X 1080): src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop IdeaPad Slim 3 15ABR8 Ryzen 7 - 5825U, 15.6"FHD, Ram 16GB, SSD 512GB, FreeDos: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Ideapad Slim 3 15IRH10 15.3” WUXGA IPS, Core i5-13420H, Ram 16GB, Ssd 512GB, Win 11: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Gamer Loq Intel Core I5 Rtx 4050 16gb Ram 1tb Ssd 15.6" Fhd 144hz 12va Gen: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ASUS - Laptop Gamer Tuf A16 Amd Ryzen 7 7445hs 16gb Ram 512ssd Rtx4050 16" Fa607nug-rl116w Fhd+ Nvidia Geforce: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product APPLE - MacBook Air 13" M4 (10n CPU 8n GPU) 16GB RAM 256GB SSD 2025 - Midnight: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Ideapad Slim 3i Intel Core I5 24gb Ram 512gb Ssd 15.3" Wuxga 13va Gen: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Gamer Intel® Core i5 RTX3050 8GB 512GB SSD LOQ 12° Gen 15.6" FHD 144hz: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:45 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Intel Core I5 16gb 512gb Ssd Ideapad Slim 3i 12° Gen Fhd: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ASUS - Laptop TUF Gaming F16 Rtx3050 Intel Core 5 210h 8gb 512gbssd Fx607vj-rl011w 16" Fhd: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop IdeaPad Slim 3 Intel Core i5 12°Gen16GB RAM 512GB SSD 156” FHD Wind 83ER001DLM: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product BLACK FRIDAYLENOVOLaptop IdeaPad Slim 3 15IRH10 15.3" WUXGA IPS, Core i7-13620H, Ram 16GB, Ssd 1 TB, Win 11 ProPor Gorantex Peru SacS/ 2,599-39%S/ 4,250Llega mañanaRetira mañana(4)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ACERLaptop Nitro Lite Intel® Core¿ I7-13620h 16 Gb 512 Gb Nvidia® Geforce Rtx¿ 4050 Wuxga (1920 X 1200)Por FalabellaS/ 3,199-36%S/ 3,299S/ 4,999Llega mañanaRetira mañana(3)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVOLaptop Intel Core I7 16gb 512gb Ssd Ideapad Slim 3i 15.3" Wuxga TactilPor FalabellaS/ 2,399-40%S/ 2,499S/ 3,999Llega mañanaRetira mañana(3)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HPLaptop 15-fd0253la Intel Core i5-1334u 8gb Ram 512gb Ssd 15.6" + Mochila + MousePor FalabellaS/ 1,699-39%S/ 1,799S/ 2,799Llega mañanaRetira mañana(14)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVOLaptop Gamer Legion Pro 5i 14va Gen Intel Core I9 Rtx 5060 32gb Ram 1tb Ssd 16" Wqxga 240hzPor FalabellaS/ 6,899-23%S/ 6,999S/ 8,999Llega mañanaRetira mañanaAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ASUSLaptop Gamer TUF A16 16GB 512GB AMD Ryzen 7 NVIDIA RTX 4050 6VRAM WIN 11 SSD 16 Pulgadas WUXGAPor Discount Tech Miami PeS/ 2,999-30%S/ 3,099S/ 4,299Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product BLACK FRIDAYMSILaptop Gamer Thin 15.6 inch FHD 144Hz i5-13420H 16GB DDR4 512GB SSD RTX 4050 WIN 11 (2025)Por Discount Tech Miami PeS/ 2,799-30%S/ 2,899S/ 3,999Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ACERLaptop Nitro V 15 Intel® Core¿ I7-13620h 24gb 1 Tb Ssd Nvidia® Geforce Rtx¿ 5050 Fhd (1920 X 1080)Por FalabellaS/ 4,299-22%S/ 4,399S/ 5,499Llega mañanaRetira mañana(1)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVOLaptop Gamer Loq Amd Ryzen 7 Rtx 4060 16gb Ram 512 Gb Ssd 15.6" Fhd 144hz Serie 7000Por FalabellaS/ 3,899-36%S/ 3,999S/ 6,099Llega mañanaRetira mañana(1)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ASUSLaptop Vivobook 15 Intel Core I5-13420h 8gb 512gbssd 15.6" FhdPor FalabellaS/ 1,499-46%S/ 1,599S/ 2,799Llega mañanaRetira mañanaAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVOLaptop Gamer Loq Amd Ryzen 7 Rtx 4050 16gb Ram 512 Gb Ssd 15.6" Fhd 144hz Serie 7000Por FalabellaS/ 3,299-35%S/ 3,399S/ 5,099Llega mañanaRetira mañanaAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVOLaptop IdeaPad 5 2-en-1 , AMD Ryzen 7 8845HS, 16GB ram, 512GB ssd, 14"wuxga touch + lapizPor FalabellaS/ 2,899-33%S/ 2,999S/ 4,299Llega mañanaRetira mañana(6)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ASUSLaptop Tuf Gaming A15 Amd Ryzen 7 7445hs 16gb 512gbssd Rtx3050 15.6" FhdPor FalabellaS/ 2,799-42%S/ 2,999S/ 4,799Llega mañanaRetira mañana(1)PatrocinadoAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVOLaptop Ideapad Slim 3i Intel Core I5 24gb Ram 512gb Ssd 15.3" Wuxga 13va GenPor FalabellaS/ 2,099-36%S/ 2,199S/ 3,299Llega mañanaRetira mañanaPatrocinadoAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HPLaptop Gamer Victus 15-fb3020la, amd Ryzen 7, 16gb Ram, 512gb Ssd, nvidia Geforce Rtx 3050, fhd,15.6", plata Mica, Windows 11 Home.Por FalabellaS/ 2,999-30%S/ 3,049S/ 4,299Llega mañanaRetira mañana(3)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVOLaptop Legion Pro 5i Intel Core I9 Rtx 4060 16gb Ram 1tb Ssd 16" Ips Wqxga 165hz 14va GenPor FalabellaS/ 6,499-14%S/ 7,599Llega mañanaRetira mañanaAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ACERLaptop Aspire Go 15 Intel® Core¿ I5-13420h 16 Gb 512 Gb Fhd (1920 X 1080)Por FalabellaS/ 1,699-32%S/ 2,499Llega mañanaRetira hoyAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HPLaptop Gaming Omen Amd Ryzen 9 24 Gb Ram Rtx 5060 1 Tb Ssd 16" 16-ap0008laPor FalabellaS/ 5,699-19%S/ 5,799S/ 6,999Llega mañanaRetira hoyAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ACERLaptop Nitro Lite Intel® Core¿ I7-13620h 16 Gb 512 Gb Nvidia® Geforce Rtx¿ 3050 Wuxga (1920 X 1200)Por FalabellaS/ 2,849-32%S/ 2,899S/ 4,199Llega mañanaRetira mañana(1)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HPLaptop Gamer Omen Max 16-ah0006la Intel Core Ultra7 32gb Ram 1tbrtx5070 Ssd 16"Por FalabellaS/ 7,999-16%S/ 8,099S/ 9,499Llega mañanaRetira mañana(1)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HPLaptop Omnibook 3 Amd Ryzen Ai 7 24gb Ram 512 Gb Ssd 15.6" Fhd 15-fn0072laPor FalabellaS/ 3,299-27%S/ 3,399S/ 4,499Llega mañanaRetira hoyAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HPLaptop Amd Ryzen 5 16gb 512 Gb Ssd 15.6 Fhd Win 11 15-fc0253laPor FalabellaS/ 1,879-37%S/ 1,999S/ 2,999Llega mañanaRetira mañana(3)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ACERLaptop Nitro V 15 Amd Ryzen¿ 7 7445hs 32 Gb 1 Tb Ssd Nvidia® Geforce Rtx¿ 4050 Fhd (1920 X 1080)Por FalabellaS/ 3,499-35%S/ 3,599S/ 5,399Llega mañanaRetira mañanaAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVOLaptop Intel Core I5 8gb 512gb Ssd Ideapad Slim 3i 12° Gen Fhd TouchPor FalabellaS/ 1,749-42%S/ 1,799S/ 2,999Llega mañanaRetira hoy(6)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product BLACK FRIDAYAPPLEMacBook Air 13" M4 (10n CPU 8n GPU), 16GB RAM, 256GB SSD, 2025 - Blanco EstelarPor Technology Supplier PeS/ 3,599-35%S/ 3,699S/ 5,499Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HPLaptop Gaming Omen Intel Core I7 16 Gb Ram Rtx 5060 1 Tb Ssd 16" A 240 Hz 16-am0021laPor FalabellaS/ 6,799-15%S/ 6,899S/ 7,999Llega mañanaRetira mañanaAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product BLACK FRIDAYLENOVOLaptop IdeaPad Slim 3 15ABR8 AMD Ryzen 7-5825U/ 16Gb Ram/ 512Gb SSD/ 15.6” FHD TN - 82XM00S6LMPor A & I Real ColorsS/ 1,599-48%S/ 1,699S/ 3,099Llega mañanaRetira hoy(2)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product BLACK FRIDAYLENOVOLaptop Gamer Legion Intel Core Ultra 9 275HX 32GB RAM 1TB SSD NVIDIA GeForce RTX 5060 WQXGAPor Compuboutique Usa PeS/ 6,499-12%S/ 7,399Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HPLaptop 16-ba1051la Omnibook 5 , intel Core I5 13va, 16ram, 512gb Ssd, 2k, 16", Windows 11 Home.Por FalabellaS/ 2,699-25%S/ 2,749S/ 3,599Llega mañanaRetira mañana(1)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HPLaptop 15-fd1251la Intel Core Ultra 5 16gb Ram 512gb Ssd 15.6" Fhd Windows 11Por FalabellaS/ 2,399-35%S/ 2,449S/ 3,699Llega mañanaRetira mañana(2)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HPLaptop 15-fd0271la Intel Core i7 16 GB 512 GB SSD 15.6¿ FHD Windows 11 HomePor FalabellaS/ 2,399-30%S/ 2,499S/ 3,449Llega mañanaRetira mañana(11)Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ACERLaptop Nitro Lite Intel® Core¿ I5-13420h 8 Gb 512 Gb Nvidia® Geforce Rtx¿ 3050 Wuxga (1920 X 1200)Por FalabellaS/ 2,699-25%S/ 3,599Llega mañanaRetira hoyAgregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:41:46 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product BLACK FRIDAYHPLaptop Gamer OMEN 16" 2K 165Hz i5 Ultra 225H 16GB RAM 1TB SSD RTX 5050 Win11 NegroPor Discount Tech Miami PeS/ 3,899-29%S/ 3,999S/ 5,499Agregar al Carro: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:46:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+product_id
+  Field required [type=missing, input_value={'price': Decimal('0.01'), 'currency': 'PEN'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2025-11-29 03:49:17 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:49:17 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:49:19 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:49:19 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:49:21 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:49:21 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:49:23 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:49:23 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:49:25 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:49:25 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:49:27 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:49:27 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:49:29 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:49:29 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 03:49:31 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 03:49:31 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 08:38:01 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 08:38:01 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 08:38:02 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 08:38:02 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 08:38:04 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 08:38:04 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 08:38:07 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 08:38:07 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 08:38:08 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 08:38:09 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 08:38:11 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 08:38:11 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 08:38:12 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 08:38:12 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 08:38:14 | ERROR    | src.scrapers.falabella:safe_request:62 - Error loading page: Page.goto: Object of type HttpUrl is not JSON serializable
+2025-11-29 08:38:14 | ERROR    | src.scrapers.base:run_scraping:117 - Error processing product: 1 validation error for PriceHistory
+price
+  Input should be greater than 0 [type=greater_than, input_value=Decimal('0.00'), input_type=Decimal]
+    For further information visit https://errors.pydantic.dev/2.12/v/greater_than
+2025-11-29 08:47:15 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Ideapad Slim 3 Amd Ryzen 5 8gb Ram 512gb Ssd 15.6" Fhd Serie 5000: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 08:47:22 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Gamer Legion Pro 7i Gen 2 Ia Intel Core Ultra 9 Rtx 5080 32gb Ram 1tb Ssd 16" Wqxga 240hz: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 08:47:28 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Ideapad Slim 3 Amd Ryzen 5 8gb Ram 512gb Ssd 15.6" Fhd Serie 5000: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 08:47:36 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product HP - Laptop Amd Ryzen 7 16 Gb 1 Tb Ssd 15.6" Fhd 15-fc0276la: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 08:47:44 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ASUS - Laptop Tuf Gaming A15 Amd Ryzen 7 7445hs 16gb 512gbssd Rtx3050 15.6" Fhd: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 08:47:51 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product ACER - Laptop Aspire Lite Amd Ryzen¿ 7 5825u 32 Gb 1 Tb Ssd Fhd (1920 X 1080): src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 08:48:00 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop IdeaPad Slim 3 15ABR8 Ryzen 7 - 5825U, 15.6"FHD, Ram 16GB, SSD 512GB, FreeDos: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 08:48:10 | ERROR    | src.scrapers.base:save_product_with_price:92 - Error saving product LENOVO - Laptop Ideapad Slim 3 15IRH10 15.3” WUXGA IPS, Core i5-13420H, Ram 16GB, Ssd 512GB, Win 11: src.models.product.PriceHistory() got multiple values for keyword argument 'product_id'
+2025-11-29 12:53:23 | ERROR    | src.database.connection:get_connection:28 - Database error: database is locked
+2025-11-29 12:53:23 | ERROR    | src.scrapers.base:save_product_with_price:98 - Error saving product MINT - SECADOR MULTISTYLER 6 EN 1: database is locked
+2025-11-29 12:53:36 | ERROR    | src.database.connection:get_connection:28 - Database error: database is locked
+2025-11-29 12:53:36 | ERROR    | src.scrapers.base:save_product_with_price:98 - Error saving product TAURUS - Secadora Alize 2200 Silence: database is locked
+2025-11-29 12:53:49 | ERROR    | src.database.connection:get_connection:28 - Database error: database is locked
+2025-11-29 12:53:49 | ERROR    | src.scrapers.base:save_product_with_price:98 - Error saving product DYSON - Multistyler De Cabello Airwrap: database is locked
+2025-11-29 12:54:02 | ERROR    | src.database.connection:get_connection:28 - Database error: database is locked
+2025-11-29 12:54:02 | ERROR    | src.scrapers.base:save_product_with_price:98 - Error saving product GAMA - Multistyler Uniq Aura 4 En 1 | Seca, Alisa, Ondula Y Más: database is locked
+2025-11-29 12:54:16 | ERROR    | src.database.connection:get_connection:28 - Database error: database is locked
+2025-11-29 12:54:16 | ERROR    | src.scrapers.base:save_product_with_price:98 - Error saving product ULA - Cepillo Secador multistyler 8 En 1: database is locked
+2025-11-29 12:54:29 | ERROR    | src.database.connection:get_connection:28 - Database error: database is locked
+2025-11-29 12:54:29 | ERROR    | src.scrapers.base:save_product_with_price:98 - Error saving product TAURUS - Secadora Digital Professional: database is locked
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 14:59:44 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:00:26 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:03:19 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
+2025-11-29 15:04:18 | ERROR    | src.scrapers.base:run_scraping:123 - Error processing product: 'tuple' object has no attribute 'model_dump'
